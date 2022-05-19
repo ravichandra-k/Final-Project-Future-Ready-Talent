@@ -6,22 +6,21 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 
 IDE: VS-Code
 
-Note: Bot is deployed on contact page
 
 ### Industry :
 Lifestyle
 
 
 ### Project Title :
-E-Commerce Website with FAQ Bot
+E-Commerce Website
 
 
 ### Problem Statement/Opportunity :
-An e-commerce company wants to build a sample Front End prototype website for their business as the online shopping industry has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page, Product detail Page, Cart, Product Category Page, Checkout Page along with FAQ Bot deployed on Website for customers help.
+Because the online shopping market, as well as e-commerce issues, has been increasing at an astounding rate, an e-commerce company wishes to build a sample Front End prototype website for their business. They chose Azure Cloud Platform to develop the entire website. Create a website with the following pages: Home Page, Product Detail Page, Cart, Product Category Page, Checkout Page, and FAQ Bot for customer assistance.
 
 
 ### Project Description :
-Core Idea of Project is to build an sample prototype E-Commerce Website with FAQ Bot for a business company with the help of HTML, CSS, JAVASCRIPT, BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of sample prototype an e-commerce site is to sell goods online with solving problems of customer speedily via FAQ Bot . This project deals with developing an e-commerce website for Online Product Sale. It provides the user with a catalog of different product available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user. We are using Azure Technologies with GitHub to complete this project.
+The main goal of the project is to create a sample prototype E-Commerce Website with a FAQ Bot for a business using HTML, CSS, JAVASCRIPT, and BOOTSTRAP. The most prominent business usage of the World Wide Web is the business-to-consumer element of product commerce (e-commerce). The main purpose of a sample prototype of an e-commerce site is to sell things online while also quickly handling client questions using a FAQ Bot. This project entails the creation of an e-commerce website for the sale of online products. It shows the user a catalogue of various products that may be purchased in the store. A shopping cart is supplied to the user to make online purchases easier. This project is being completed with Azure Technologies and GitHub.
 
 
 ### Primary Azure Technology :
@@ -30,5 +29,3 @@ Azure Bot Service, QnA Maker, Static Web Apps
 
 Other Azure Technologies :
 App Service
-
-<a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/ROHAN0011/Microsoft-Future-Ready-Talent-Internship-Project/blob/5ae1e52f4f4236d8ca92ea9189794835ce087467/FRT.jpeg" width="700" height= "350"></p></a>  
